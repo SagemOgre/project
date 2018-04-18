@@ -2,9 +2,10 @@
 
 $html = 0;
 
-$a = 0;
+$amt = 0;
+$a = 100;
 
-while ( $a < 1000)
+while ( $amt < 1000)
 {
     echo "Var ar = $a";
     $a ++;
